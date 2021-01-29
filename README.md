@@ -1,5 +1,7 @@
 # Exploring-Tinder-Message-Data-with-NLP
 <b>Author:</b> Avonlea Fisher
+
+<b>Blog Post:</b> [Diving into my Tinder Dat(e)a](https://towardsdatascience.com/diving-into-my-tinder-dat-e-a-a508269b8d10), published in [Towards Data Science](https://towardsdatascience.com/)
 ## Introduction
 The contents of this repository explore message data from my Tinder account with Natural Language Processing. Users can request a copy of their personal data, which is made available to them via e-mail in a JSON format, using the [Download my Data](https://www.help.tinder.com/hc/en-us/articles/115005626726-How-do-I-request-a-copy-of-my-personal-data-) tool. The JSON file used in this analysis has been excluded from the repository due to the data's personal nature. 
 
